@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.cemetery159.mvvmlibdemo.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.cemetery159.mvvmlibdemo.MyBundle
 
 class MyApplicationService {
 
